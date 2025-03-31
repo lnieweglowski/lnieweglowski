@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**lnieweglowski/lnieweglowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Cześć! Jestem Łukasz Niewęgłowski
 
-Here are some ideas to get you started:
+🧠 **Freelancer IT** specjalizujący się w analizie danych, automatyzacjach i lekkim ML. Pomagam firmom i osobom prywatnym ogarniać dane, tworzyć raporty, boty i usprawniać codzienną pracę.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Czym się zajmuję
+
+- 📊 Analiza danych (CSV, Excel, SQL)
+- ⚙️ Automatyzacja procesów i raportów (Python)
+- 🤖 Boty i integracje z API
+- 🧠 Proste modele ML i scoringi
+- 📈 Wizualizacje i raporty Excel / PDF
+- 🛠️ Monitoring, alerty, przetwarzanie logów
+
+## 💼 Projekty w portfolio
+
+- [📊 Analiza sprzedaży + raport Excel](https://github.com/lnieweglowski/sales-report-demo)  
+  Wczytywanie danych, agregacje, wykresy, eksport raportu.
+
+(Wkrótce więcej!)
+
+## 🤝 Jak możemy współpracować?
+
+- Współpracuję z pomocą AI (ChatGPT), co pozwala mi szybko tworzyć wydajny i czysty kod.
+- Realizuję zlecenia zdalnie, jasno komunikuję postępy i terminowo dostarczam wyniki.
+
+## 📫 Kontakt
+
+📩 **lukasznieweglowski7@gmail.com**  
+💼 Wkrótce także: Useme, Fiverr
+
+---
+
+_Dzięki za odwiedziny!_ 👇  
+Jeśli masz dane, które trzeba ogarnąć – odezwij się!
